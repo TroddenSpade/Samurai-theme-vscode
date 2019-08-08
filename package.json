@@ -1,0 +1,21 @@
+{
+    "name": "samurai",
+    "displayName": "samurai",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "samurai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/samurai-color-theme.json"
+            }
+        ]
+    }
+}
