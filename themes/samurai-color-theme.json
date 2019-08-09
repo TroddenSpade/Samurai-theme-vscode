@@ -105,9 +105,10 @@
     },
     {
       "name": "Keyword Control",
-      "scope": ["keyword.control"],
+      "scope": ["keyword.control", "storage.type.function.js"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic",
+        "foreground": "#C586C0"
       }
     },
     {
