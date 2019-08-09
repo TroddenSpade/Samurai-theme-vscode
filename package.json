@@ -1,10 +1,20 @@
 {
   "name": "samurai",
-  "displayName": "samurai",
-  "description": "",
-  "version": "0.3.0",
+  "displayName": "Samurai",
+  "description": "Samurai Theme for VSCode",
+  "version": "0.3.1",
+  "publisher": "ParsaSam",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#0c0e14",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.36.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TroddenSpade/Samurai-theme-vscode.git"
   },
   "categories": [
     "Themes"
