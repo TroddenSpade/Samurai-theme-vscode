@@ -8,8 +8,23 @@
 <p/>
 
 ## Installation
+1. Open Extensions sidebar panel and search for ``` Samurai ``` by **Parsa Samadnejad**
+2. Click Install and then Reload your editor.
+3. Manage > Color Theme > ```Samurai Katana``` / ```Samurai Light```
+
+* [MarketPlace](https://marketplace.visualstudio.com/items?itemName=ParsaSam.samurai)
 
 ## Recommended Settings
+```
+{
+  "workbench.colorTheme": "Samurai Katana",
+  "editor.fontFamily": "Operator Mono",
+  "editor.fontLigatures": true
+}
+```
+* Font: [Operator Mono Font](https://www.typography.com/fonts/operator/styles)
+* Ligatures: [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig)
+<img src="https://xf6wrw.dm.files.1drv.com/y4mEfQhScm0Ug_MEQdfNQVXLv3AakSTecYjqaZDJodpu9HlI0YrKkEr1JepNmfAIFCxmE83NeNQ1cLl9vwSkss0egKhEf3PxWajTh3aH1XjtJWrifwdkugnO3KzfYFSOXxUTD9eIGD0nhpAhyx7lSXj7_SE484s3qWj_iv932SLLc7kcYVC-CPC-oTSAWWMEsxdAyZ5wDyFgdQ2mRG7VdtYzw?width=564&height=135&cropmode=none" width="60%">
 
 ## Contributing
 
